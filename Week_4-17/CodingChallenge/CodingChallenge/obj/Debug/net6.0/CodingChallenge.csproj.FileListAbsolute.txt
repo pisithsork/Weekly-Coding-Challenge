@@ -1,0 +1,15 @@
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.exe
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.deps.json
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.runtimeconfig.json
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.pdb
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\refint\CodingChallenge.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
