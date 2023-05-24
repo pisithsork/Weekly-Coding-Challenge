@@ -1,0 +1,15 @@
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\bin\Debug\net6.0\Solution.exe
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\bin\Debug\net6.0\Solution.deps.json
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\bin\Debug\net6.0\Solution.runtimeconfig.json
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\bin\Debug\net6.0\Solution.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\bin\Debug\net6.0\Solution.pdb
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\refint\Solution.dll
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.pdb
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+C:\Users\pisit\Desktop\SchoolFolder\RevatureFolder\Personal-Projects\Weekly-Coding-Challenge\Week_4-17\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\Solution.dll
